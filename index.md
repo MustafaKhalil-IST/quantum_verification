@@ -1,6 +1,6 @@
-## First Paper: Formal Verification vs. Quantum Uncertainty
+# First Paper: Formal Verification vs. Quantum Uncertainty
 
-# Abstract
+### Abstract
 Quantum programming is hard: Quantum programs are necessarily probabilistic and impossible to
 examine without disrupting the execution of a program. In response to this challenge, we and a
 number of other researchers have written tools to verify quantum programs against their intended
@@ -11,4 +11,4 @@ low level) and certified compilation to the that same hardware. Once we have the
 we can talk about an approach to quantum programming where we start by writing and verifying
 programs at a high level, attempt to verify properties of the compiled code, and repeat as necessary
 
-# Link https://drops.dagstuhl.de/opus/volltexte/2019/10555/pdf/LIPIcs-SNAPL-2019-12.pdf
+### Link https://drops.dagstuhl.de/opus/volltexte/2019/10555/pdf/LIPIcs-SNAPL-2019-12.pdf
