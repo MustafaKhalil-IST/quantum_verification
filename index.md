@@ -11,4 +11,4 @@ low level) and certified compilation to the that same hardware. Once we have the
 we can talk about an approach to quantum programming where we start by writing and verifying
 programs at a high level, attempt to verify properties of the compiled code, and repeat as necessary
 
-### Link https://drops.dagstuhl.de/opus/volltexte/2019/10555/pdf/LIPIcs-SNAPL-2019-12.pdf
+### [link to Paper!](https://drops.dagstuhl.de/opus/volltexte/2019/10555/pdf/LIPIcs-SNAPL-2019-12.pdf)
