@@ -1,4 +1,4 @@
-# First Paper: Formal Verification vs. Quantum Uncertainty
+# Paper-1: Formal Verification vs. Quantum Uncertainty
 
 ### Abstract
 Quantum programming is hard: Quantum programs are necessarily probabilistic and impossible to
