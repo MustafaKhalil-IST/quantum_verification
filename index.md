@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## First Paper: Formal Verification vs. Quantum Uncertainty
 
-You can use the [editor on GitHub](https://github.com/MustafaKhalil-IST/quantum_verification.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Abstract
+Quantum programming is hard: Quantum programs are necessarily probabilistic and impossible to
+examine without disrupting the execution of a program. In response to this challenge, we and a
+number of other researchers have written tools to verify quantum programs against their intended
+semantics. This is not enough. Verifying an idealized semantics against a real world quantum
+program doesn’t allow you to confidently predict the program’s output. In order to have verification
+that works, you need both an error semantics related to the hardware at hand (this is necessarily
+low level) and certified compilation to the that same hardware. Once we have these two things,
+we can talk about an approach to quantum programming where we start by writing and verifying
+programs at a high level, attempt to verify properties of the compiled code, and repeat as necessary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MustafaKhalil-IST/quantum_verification.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Link https://drops.dagstuhl.de/opus/volltexte/2019/10555/pdf/LIPIcs-SNAPL-2019-12.pdf
