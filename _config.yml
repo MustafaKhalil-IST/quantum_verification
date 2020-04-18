@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: Formal Methods for Quantum Programs
 description: Traditional methods of testing and validation are not compatible with Quantum programs, because measureing a qubit while executing might lead to a collapse, Formal methods are a potential alternative, I am going to show here the latest papers on this subject, as a part of my work for my thesis.
